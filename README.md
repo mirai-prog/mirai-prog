@@ -11,4 +11,4 @@ I'm a 17 year developer based in Poland, and I'm passionate about crafting digit
    
    - **Version Control:** `Git`
    
-   - **Framework in Python:** `OpenCV`, `SQLite`, `Unit testing framework`
+   - **Other:** `OpenCV`, `SQLite`, `Unit testing framework`
