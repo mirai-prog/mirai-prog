@@ -5,6 +5,8 @@ I'm a 17 year developer based in Poland, and I'm passionate about crafting digit
    - [Codewars](https://www.codewars.com/users/pankkkkou)
 
 # 📦 Toolbox
+   - **Frontend Development:** `Django`, `HTML\CSS` 
+
    - **Backend Development:** `Python`, `SQL`
    
    - **Version Control:** `Git`
