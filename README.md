@@ -1,4 +1,4 @@
-# Hey, I'm Vendigoo 👋🏽
+# Hey, I'm Artsiom 👋🏽
 I'm a 17 year developer based in Poland, and I'm passionate about crafting digital experiences.
 
 # 🧾 My profiles
