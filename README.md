@@ -5,10 +5,10 @@ I'm a 17 year developer based in Poland, and I'm passionate about crafting digit
    - [Codewars](https://www.codewars.com/users/pankkkkou)
 
 # 📦 Toolbox
-   - **Frontend Development:** `HTML\CSS` 
+   - **Frontend Development:**  `Base on HTML\CSS` 
 
-   - **Backend Development:** `Python`, `SQL`, `Django`
+   - **Backend Development:** `Python`, `Django`, `DRF`, `Docker`, `FastAPI`, `PostgreSQL`, `PG Admin`, `SQLite`, `SQLAlchemy`
    
    - **Version Control:** `Git`
    
-   - **Other:** `OpenCV`, `SQLite`, `Unit testing framework`
+   - **Other:** `OpenCV`
