@@ -7,17 +7,7 @@ I'm a 17 year developer based in Poland, and I'm passionate about crafting digit
 # 📦 Toolbox
    - **Frontend Development:**  `Base on HTML\CSS` 
 
-   - **Backend Development:**
-      - `Python`
-      - `Django`
-      - `DRF`
-      - `Docker`
-      - `FastAPI`
-      - `PostgreSQL`
-      - `PG Admin`
-      - `SQLite`
-      - `SQLAlchemy`
-      - `Aiogram` 
+   - **Backend Development:** `Python`, `Django`, `DRF`, `Docker`, `FastAPI`, `PostgreSQL`, `PG Admin`, `SQLite`, `SQLAlchemy`, `Aiogram` 
    
    - **Version Control:** `Git`
    
