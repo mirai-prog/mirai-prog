@@ -1,14 +1,38 @@
-# Hey, I'm Artsiom 👋🏽
-I'm a 17 year developer based in Poland, and I'm passionate about crafting digital experiences.
+# 🌟 Hey there, I'm Artsiom 👋
 
-# 🧾 My profiles
-   - [Codewars](https://www.codewars.com/users/pankkkkou)
+### 🚀 About Me
+Hi! I'm Artsiom, a 17-year-old developer currently based in Poland. I thrive on creating innovative digital solutions and exploring the limitless possibilities of technology.
 
-# 📦 Toolbox
-   - **Frontend Development:**  `Base on HTML\CSS` 
+---
 
-   - **Backend Development:** `Python`, `Django`, `DRF`, `Docker`, `FastAPI`, `PostgreSQL`, `PG Admin`, `SQLite`, `SQLAlchemy`, `Aiogram` 
-   
-   - **Version Control:** `Git`
-   
-   - **Other:** `OpenCV`
+### 🧰 Technical Expertise
+
+#### **Frontend Development**
+- Proficient in: `HTML`, `CSS`
+
+#### **Backend Development**
+- Programming Language: `Python`
+- Frameworks: `Django`, `DRF`, `FastAPI`
+- Database Management: `PostgreSQL`, `SQLite`, `PG Admin`
+- Tools & Libraries: `Docker`, `SQLAlchemy`, `Aiogram`
+
+#### **Version Control**
+- Expertise in: `Git`
+
+#### **Additional Skills**
+- Computer Vision: `OpenCV`
+
+---
+
+### 🌐 Connect With Me
+- 💻 Check out my Codewars profile: [Codewars](https://www.codewars.com/users/pankkkkou)
+
+---
+
+### 📊 My GitHub Stats
+![Artsiom's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirai-prog&show_icons=true&theme=radical)
+
+---
+
+### 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirai-prog&layout=compact&theme=radical)
