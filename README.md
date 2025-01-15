@@ -1,5 +1,3 @@
----
-
 ### 📊 My GitHub Stats
 ![Artsiom's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirai-prog&show_icons=true&theme=radical)
 
