@@ -1,7 +1,7 @@
 # 🌟 Hey there, I'm Artsiom 👋
 
 ### 🚀 About Me
-Hi! I'm Artsiom, a 17-year-old developer currently based in Poland. I thrive on creating innovative digital solutions and exploring the limitless possibilities of technology.
+Hi! I'm Artsiom, a 18-year-old developer currently based in Poland. I thrive on creating innovative digital solutions and exploring the limitless possibilities of technology.
 
 ---
 
