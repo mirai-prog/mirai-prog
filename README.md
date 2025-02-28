@@ -26,14 +26,8 @@ Hi! I'm Artsiom, a 18-year-old developer currently based in Poland. I thrive on 
 - Database Management: `PostgreSQL`, `SQLite`, `PG Admin`
 - Tools & Libraries: `Docker`, `SQLAlchemy`, `Aiogram`
 
-#### **Version Control**
-- Expertise in: `Git`
 
 #### **Additional Skills**
 - Computer Vision: `OpenCV`
 
----
-
-### 🌐 Connect With Me
-- 💻 Check out my Codewars profile: [Codewars](https://www.codewars.com/users/pankkkkou)
 
